@@ -1,0 +1,13 @@
+env
+__pycache__
+albums/__pycache__
+albums/migrations/__pycache__
+everest/__pycache__
+dcelery/migrations/__pycache__
+dcelery/__pycache__
+static/admin
+static/django_extensions
+static/rest_framework
+.DS_Store
+media
+logs
